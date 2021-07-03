@@ -9,7 +9,7 @@ var dustbinObject,paperObject,groundObject
 var world
 
 function setup() {
-	createCanvas(800, 700);
+	createCanvas(1500, 700);
 
 
 	engine = Engine.create();
